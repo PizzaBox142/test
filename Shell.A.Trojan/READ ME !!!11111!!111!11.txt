@@ -1,0 +1,8 @@
+Run malware only on virtual machine! Malware created on python.
+This is malware It not only causes a blue screen, but also loads 
+more than 10+ malicious software. I am not responsible for your PC, 
+and if something happens, you are responsible for the virus that you 
+voluntarily launched.
+
+                                                              
+                                                                --Pizzabox 03.11.2025
